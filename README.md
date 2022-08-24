@@ -3,8 +3,7 @@
 <!-- GETTING STARTED -->
 ## Phobos Engineered Weaponry - NorthWind weapons customized
 
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+This is a modified version of the SE NorthWinds weapon pack. It has been balanced by removing some overpowered weapons/turrets and by reconfiguring the performance of others.
 
 <!-- CONTACT -->
 ## Contact
